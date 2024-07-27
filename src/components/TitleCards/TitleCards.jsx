@@ -1,5 +1,4 @@
 import React, { useEffect, useRef, useState } from 'react';
-import Cards_Data from '../../assets/cards/Cards_data'
 import './TitleCards.css'
 import { Link } from 'react-router-dom';
 import { getMoviesListApi } from '../../apis';
